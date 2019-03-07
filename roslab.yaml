@@ -1,8 +1,8 @@
 name: correlation-flow
 
 base: 
-  - ubuntu: 16.04
-  - ros: kinetic-ros-base
+  ubuntu: 16.04
+  ros: kinetic-ros-base
 
 apt:
   - libfftw3-dev
